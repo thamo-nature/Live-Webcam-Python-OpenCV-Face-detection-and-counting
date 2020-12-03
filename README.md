@@ -5,6 +5,8 @@ using cascade classifier,In this case,the haarcascade_frontalface_default.xml cl
 
 adjust the count to detect crowd or now</br>
 
-Just clone the repo and run people_count.py.
+Just clone the repo and run </br>
+
+./people_count.py haarcascade_frontalface_default.xml </br>
 
 happy coding.
